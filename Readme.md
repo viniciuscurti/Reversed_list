@@ -1,6 +1,6 @@
-# Projeto Node
+# Projeto Reversed List with Nodes - Ruby
 
-## Como fazer o clone do projeto
+### Como fazer o clone do projeto
 
 #### Em seguida, execute o seguinte comando:
 ```bash
