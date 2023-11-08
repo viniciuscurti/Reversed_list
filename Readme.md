@@ -4,7 +4,7 @@
 
 #### Em seguida, execute o seguinte comando:
 ```bash
-  git@github.com:'{#seu_usuario}'/Reversed_list.git
+  git clone git@github.com:'{#seu_usuario}'/Reversed_list.git
 ```
 ## Como instalar o bundler e as gemas
 
